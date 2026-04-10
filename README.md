@@ -53,12 +53,21 @@ The main objective of this project is to:
 ---
 
 ## 📊 Data Model
-![Data Model](images/Data%20Modeling.png)
+
+<p align="center">
+  <img src="images/Data%20Modeling.png" width="100%">
+</p>
+
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](images/snap.png)
+
+
+<p align="center">
+  <img src="images/snap.png" width="100%">
+</p>
+
 
 ---
 
