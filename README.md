@@ -53,12 +53,12 @@ The main objective of this project is to:
 ---
 
 ## 📊 Data Model
-![Data Model](images/data-model.png)
+![Data Model](images/Data%20Modeling.png)
 
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/snap.png)
 
 ---
 
@@ -102,3 +102,42 @@ The main objective of this project is to:
 ---
 
 ## 📂 Project Structure
+
+📁 Mastercard-Visa-Stock-Analysis
+│── README.md
+│── BI dashboard/
+│── data/
+│── document/
+│── images/
+
+
+---
+
+## ▶️ How to Use
+1. Clone or download the repository  
+2. Open the `.pbix` file from **BI dashboard**  
+3. Use filters and slicers to explore insights  
+
+---
+
+## 🚀 Future Enhancements
+- Real-time stock data via APIs  
+- Predictive modeling  
+- Financial ratios (P/E, EPS, ROE)  
+- Sentiment analysis  
+
+---
+
+## 📌 Conclusion
+- **Visa → Stability & consistency**  
+- **Mastercard → Growth potential**  
+
+---
+
+## 🤝 Connect With Me
+- 🔗 https://www.linkedin.com/in/umair-nawaz-dataanalyst/
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
