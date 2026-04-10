@@ -1,4 +1,4 @@
-# 💳 Visa vs Mastercard Stock Analysis (2008–2024) | Power BI Project
+#  Visa vs Mastercard Stock Analysis (2008–2024)
 
 ##  Overview
 This project presents a comprehensive comparative analysis of **Visa** and **Mastercard**, two global leaders in the digital payments industry, using historical stock data from **2008 to 2024**.
