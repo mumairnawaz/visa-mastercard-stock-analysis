@@ -1,13 +1,13 @@
 # 💳 Visa vs Mastercard Stock Analysis (2008–2024) | Power BI Project
 
-## 📊 Overview
+##  Overview
 This project presents a comprehensive comparative analysis of **Visa** and **Mastercard**, two global leaders in the digital payments industry, using historical stock data from **2008 to 2024**.
 
 The analysis is built using **Power BI**, focusing on uncovering trends, growth patterns, volatility, and investment insights through an interactive dashboard.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The main objective of this project is to:
 
 - Analyze historical stock performance of Visa and Mastercard  
@@ -17,7 +17,7 @@ The main objective of this project is to:
 
 ---
 
-## 🏢 Companies Overview
+##  Companies Overview
 
 ### Visa
 - Global leader in digital payments  
@@ -31,7 +31,7 @@ The main objective of this project is to:
 
 ---
 
-## 📁 Dataset
+##  Dataset
 - **Time Period:** June 2008 – June 2024  
 - **Granularity:** Daily stock data  
 - **Key Metrics:**
@@ -52,7 +52,7 @@ The main objective of this project is to:
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 - 📈 Closing Price Trends Comparison  
 - 📊 Trading Volume Analysis  
 - 📉 Volatility Insights  
@@ -62,28 +62,28 @@ The main objective of this project is to:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
-### 📌 Long-Term Growth
+###  Long-Term Growth
 - Visa slightly outperforms Mastercard in long-term growth  
 - Both stocks show strong upward trends  
 
-### 📌 Market Resilience
+###  Market Resilience
 - Both declined during:
   - 2008 Financial Crisis  
   - COVID-19 Pandemic  
 - Strong recovery observed  
 
-### 📌 Volatility
+###  Volatility
 - Mastercard is more volatile  
 - Visa is more stable  
 
-### 📌 Trading Volume
+###  Trading Volume
 - Visa generally has higher trading volumes  
 
 ---
 
-## ❓ Key Questions Answered
+##  Key Questions Answered
 - How do stock prices evolve over time?  
 - Which company performs better during downturns?  
 - What drives price movements?  
@@ -91,14 +91,14 @@ The main objective of this project is to:
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 1. Clone or download the repository  
 2. Open the `.pbix` file from **BI dashboard**  
 3. Use filters and slicers to explore insights  
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Real-time stock data via APIs  
 - Predictive modeling  
 - Financial ratios (P/E, EPS, ROE)  
@@ -106,7 +106,7 @@ The main objective of this project is to:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 - **Visa → Stability & consistency**  
 - **Mastercard → Growth potential**  
 
